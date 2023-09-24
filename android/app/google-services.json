@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425158530708",
+    "project_id": "mektup-db",
+    "storage_bucket": "mektup-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425158530708:android:492250df8ed7b1aabb0681",
+        "android_client_info": {
+          "package_name": "com.turanozt.af_haberleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425158530708-7hngfqh18af0e05i8quos1fqmh9dkdpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCH--zeK3iGl82mItSnd-pnFcTn0myCLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425158530708-7hngfqh18af0e05i8quos1fqmh9dkdpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
